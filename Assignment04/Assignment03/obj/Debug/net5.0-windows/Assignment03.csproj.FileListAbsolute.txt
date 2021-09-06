@@ -1,0 +1,72 @@
+D:\2nd SEMESTER\PROGRAMMING 2\Comp123-gupt123-Assign03\Assignment03\Assignment03\bin\Debug\net5.0-windows\Assignment03.exe
+D:\2nd SEMESTER\PROGRAMMING 2\Comp123-gupt123-Assign03\Assignment03\Assignment03\bin\Debug\net5.0-windows\Assignment03.deps.json
+D:\2nd SEMESTER\PROGRAMMING 2\Comp123-gupt123-Assign03\Assignment03\Assignment03\bin\Debug\net5.0-windows\Assignment03.runtimeconfig.json
+D:\2nd SEMESTER\PROGRAMMING 2\Comp123-gupt123-Assign03\Assignment03\Assignment03\bin\Debug\net5.0-windows\Assignment03.runtimeconfig.dev.json
+D:\2nd SEMESTER\PROGRAMMING 2\Comp123-gupt123-Assign03\Assignment03\Assignment03\bin\Debug\net5.0-windows\Assignment03.dll
+D:\2nd SEMESTER\PROGRAMMING 2\Comp123-gupt123-Assign03\Assignment03\Assignment03\bin\Debug\net5.0-windows\ref\Assignment03.dll
+D:\2nd SEMESTER\PROGRAMMING 2\Comp123-gupt123-Assign03\Assignment03\Assignment03\bin\Debug\net5.0-windows\Assignment03.pdb
+D:\2nd SEMESTER\PROGRAMMING 2\Comp123-gupt123-Assign03\Assignment03\Assignment03\bin\Debug\net5.0-windows\System.Text.Json.dll
+D:\2nd SEMESTER\PROGRAMMING 2\Comp123-gupt123-Assign03\Assignment03\Assignment03\obj\Debug\net5.0-windows\Assignment03.csproj.AssemblyReference.cache
+D:\2nd SEMESTER\PROGRAMMING 2\Comp123-gupt123-Assign03\Assignment03\Assignment03\obj\Debug\net5.0-windows\Assignment03.MainForm.resources
+D:\2nd SEMESTER\PROGRAMMING 2\Comp123-gupt123-Assign03\Assignment03\Assignment03\obj\Debug\net5.0-windows\Assignment03.TradePlayerForm.resources
+D:\2nd SEMESTER\PROGRAMMING 2\Comp123-gupt123-Assign03\Assignment03\Assignment03\obj\Debug\net5.0-windows\Assignment03.csproj.GenerateResource.cache
+D:\2nd SEMESTER\PROGRAMMING 2\Comp123-gupt123-Assign03\Assignment03\Assignment03\obj\Debug\net5.0-windows\Assignment03.GeneratedMSBuildEditorConfig.editorconfig
+D:\2nd SEMESTER\PROGRAMMING 2\Comp123-gupt123-Assign03\Assignment03\Assignment03\obj\Debug\net5.0-windows\Assignment03.AssemblyInfoInputs.cache
+D:\2nd SEMESTER\PROGRAMMING 2\Comp123-gupt123-Assign03\Assignment03\Assignment03\obj\Debug\net5.0-windows\Assignment03.AssemblyInfo.cs
+D:\2nd SEMESTER\PROGRAMMING 2\Comp123-gupt123-Assign03\Assignment03\Assignment03\obj\Debug\net5.0-windows\Assignment03.csproj.CoreCompileInputs.cache
+D:\2nd SEMESTER\PROGRAMMING 2\Comp123-gupt123-Assign03\Assignment03\Assignment03\obj\Debug\net5.0-windows\Assignment03.csproj.CopyComplete
+D:\2nd SEMESTER\PROGRAMMING 2\Comp123-gupt123-Assign03\Assignment03\Assignment03\obj\Debug\net5.0-windows\Assignment03.dll
+D:\2nd SEMESTER\PROGRAMMING 2\Comp123-gupt123-Assign03\Assignment03\Assignment03\obj\Debug\net5.0-windows\ref\Assignment03.dll
+D:\2nd SEMESTER\PROGRAMMING 2\Comp123-gupt123-Assign03\Assignment03\Assignment03\obj\Debug\net5.0-windows\Assignment03.pdb
+D:\2nd SEMESTER\PROGRAMMING 2\Comp123-gupt123-Assign03\Assignment03\Assignment03\obj\Debug\net5.0-windows\Assignment03.genruntimeconfig.cache
+D:\2nd SEMESTER\PROGRAMMING 2\Comp123-gupt123-Assign03\Assignment03\Assignment03\obj\Debug\net5.0-windows\Assignment03.Properties.Resources.resources
+D:\2nd SEMESTER\PROGRAMMING 2\Comp123-agupt123-Assign04\Assignment04\Assignment03\obj\Debug\net5.0-windows\Assignment03.csproj.AssemblyReference.cache
+D:\2nd SEMESTER\PROGRAMMING 2\Comp123-agupt123-Assign04\Assignment04\Assignment03\obj\Debug\net5.0-windows\Assignment03.MainForm.resources
+D:\2nd SEMESTER\PROGRAMMING 2\Comp123-agupt123-Assign04\Assignment04\Assignment03\obj\Debug\net5.0-windows\Assignment03.Properties.Resources.resources
+D:\2nd SEMESTER\PROGRAMMING 2\Comp123-agupt123-Assign04\Assignment04\Assignment03\obj\Debug\net5.0-windows\Assignment03.SeasonForm.resources
+D:\2nd SEMESTER\PROGRAMMING 2\Comp123-agupt123-Assign04\Assignment04\Assignment03\obj\Debug\net5.0-windows\Assignment03.TradePlayerForm.resources
+D:\2nd SEMESTER\PROGRAMMING 2\Comp123-agupt123-Assign04\Assignment04\Assignment03\obj\Debug\net5.0-windows\Assignment03.csproj.GenerateResource.cache
+D:\2nd SEMESTER\PROGRAMMING 2\Comp123-agupt123-Assign04\Assignment04\Assignment03\obj\Debug\net5.0-windows\Assignment03.GeneratedMSBuildEditorConfig.editorconfig
+D:\2nd SEMESTER\PROGRAMMING 2\Comp123-agupt123-Assign04\Assignment04\Assignment03\obj\Debug\net5.0-windows\Assignment03.AssemblyInfoInputs.cache
+D:\2nd SEMESTER\PROGRAMMING 2\Comp123-agupt123-Assign04\Assignment04\Assignment03\obj\Debug\net5.0-windows\Assignment03.AssemblyInfo.cs
+D:\2nd SEMESTER\PROGRAMMING 2\Comp123-agupt123-Assign04\Assignment04\Assignment03\obj\Debug\net5.0-windows\Assignment03.csproj.CoreCompileInputs.cache
+D:\2nd SEMESTER\PROGRAMMING 2\Comp123-agupt123-Assign04\Assignment04\Assignment03\obj\Debug\net5.0-windows\Assignment03.dll
+D:\2nd SEMESTER\PROGRAMMING 2\Comp123-agupt123-Assign04\Assignment04\Assignment03\obj\Debug\net5.0-windows\ref\Assignment03.dll
+D:\2nd SEMESTER\PROGRAMMING 2\Comp123-agupt123-Assign04\Assignment04\Assignment03\obj\Debug\net5.0-windows\Assignment03.pdb
+D:\2nd SEMESTER\PROGRAMMING 2\Comp123-agupt123-Assign04\Assignment04\Assignment03\bin\Debug\net5.0-windows\Assignment03.exe
+D:\2nd SEMESTER\PROGRAMMING 2\Comp123-agupt123-Assign04\Assignment04\Assignment03\bin\Debug\net5.0-windows\Assignment03.deps.json
+D:\2nd SEMESTER\PROGRAMMING 2\Comp123-agupt123-Assign04\Assignment04\Assignment03\bin\Debug\net5.0-windows\Assignment03.runtimeconfig.json
+D:\2nd SEMESTER\PROGRAMMING 2\Comp123-agupt123-Assign04\Assignment04\Assignment03\bin\Debug\net5.0-windows\Assignment03.runtimeconfig.dev.json
+D:\2nd SEMESTER\PROGRAMMING 2\Comp123-agupt123-Assign04\Assignment04\Assignment03\bin\Debug\net5.0-windows\Assignment03.dll
+D:\2nd SEMESTER\PROGRAMMING 2\Comp123-agupt123-Assign04\Assignment04\Assignment03\bin\Debug\net5.0-windows\ref\Assignment03.dll
+D:\2nd SEMESTER\PROGRAMMING 2\Comp123-agupt123-Assign04\Assignment04\Assignment03\bin\Debug\net5.0-windows\Assignment03.pdb
+D:\2nd SEMESTER\PROGRAMMING 2\Comp123-agupt123-Assign04\Assignment04\Assignment03\bin\Debug\net5.0-windows\System.Text.Json.dll
+D:\2nd SEMESTER\PROGRAMMING 2\Comp123-agupt123-Assign04\Assignment04\Assignment03\obj\Debug\net5.0-windows\Assignment03.AddPlayerForm.resources
+D:\2nd SEMESTER\PROGRAMMING 2\Comp123-agupt123-Assign04\Assignment04\Assignment03\obj\Debug\net5.0-windows\Assignment03.AddTeamForm.resources
+D:\2nd SEMESTER\PROGRAMMING 2\Comp123-agupt123-Assign04\Assignment04\Assignment03\obj\Debug\net5.0-windows\Assignment03.csproj.CopyComplete
+D:\2nd SEMESTER\PROGRAMMING 2\Comp123-agupt123-Assign04\Assignment04\Assignment03\obj\Debug\net5.0-windows\Assignment03.genruntimeconfig.cache
+D:\2nd SEMESTER\PROGRAMMING 2\Comp123-agupt123-Assign04 - ANOTHEREDIT\Assignment04\Assignment03\bin\Debug\net5.0-windows\Assignment03.exe
+D:\2nd SEMESTER\PROGRAMMING 2\Comp123-agupt123-Assign04 - ANOTHEREDIT\Assignment04\Assignment03\bin\Debug\net5.0-windows\Assignment03.deps.json
+D:\2nd SEMESTER\PROGRAMMING 2\Comp123-agupt123-Assign04 - ANOTHEREDIT\Assignment04\Assignment03\bin\Debug\net5.0-windows\Assignment03.runtimeconfig.json
+D:\2nd SEMESTER\PROGRAMMING 2\Comp123-agupt123-Assign04 - ANOTHEREDIT\Assignment04\Assignment03\bin\Debug\net5.0-windows\Assignment03.runtimeconfig.dev.json
+D:\2nd SEMESTER\PROGRAMMING 2\Comp123-agupt123-Assign04 - ANOTHEREDIT\Assignment04\Assignment03\bin\Debug\net5.0-windows\Assignment03.dll
+D:\2nd SEMESTER\PROGRAMMING 2\Comp123-agupt123-Assign04 - ANOTHEREDIT\Assignment04\Assignment03\bin\Debug\net5.0-windows\ref\Assignment03.dll
+D:\2nd SEMESTER\PROGRAMMING 2\Comp123-agupt123-Assign04 - ANOTHEREDIT\Assignment04\Assignment03\bin\Debug\net5.0-windows\Assignment03.pdb
+D:\2nd SEMESTER\PROGRAMMING 2\Comp123-agupt123-Assign04 - ANOTHEREDIT\Assignment04\Assignment03\bin\Debug\net5.0-windows\System.Text.Json.dll
+D:\2nd SEMESTER\PROGRAMMING 2\Comp123-agupt123-Assign04 - ANOTHEREDIT\Assignment04\Assignment03\obj\Debug\net5.0-windows\Assignment03.csproj.AssemblyReference.cache
+D:\2nd SEMESTER\PROGRAMMING 2\Comp123-agupt123-Assign04 - ANOTHEREDIT\Assignment04\Assignment03\obj\Debug\net5.0-windows\Assignment03.AddPlayerForm.resources
+D:\2nd SEMESTER\PROGRAMMING 2\Comp123-agupt123-Assign04 - ANOTHEREDIT\Assignment04\Assignment03\obj\Debug\net5.0-windows\Assignment03.AddTeamForm.resources
+D:\2nd SEMESTER\PROGRAMMING 2\Comp123-agupt123-Assign04 - ANOTHEREDIT\Assignment04\Assignment03\obj\Debug\net5.0-windows\Assignment03.MainForm.resources
+D:\2nd SEMESTER\PROGRAMMING 2\Comp123-agupt123-Assign04 - ANOTHEREDIT\Assignment04\Assignment03\obj\Debug\net5.0-windows\Assignment03.Properties.Resources.resources
+D:\2nd SEMESTER\PROGRAMMING 2\Comp123-agupt123-Assign04 - ANOTHEREDIT\Assignment04\Assignment03\obj\Debug\net5.0-windows\Assignment03.SeasonForm.resources
+D:\2nd SEMESTER\PROGRAMMING 2\Comp123-agupt123-Assign04 - ANOTHEREDIT\Assignment04\Assignment03\obj\Debug\net5.0-windows\Assignment03.TradePlayerForm.resources
+D:\2nd SEMESTER\PROGRAMMING 2\Comp123-agupt123-Assign04 - ANOTHEREDIT\Assignment04\Assignment03\obj\Debug\net5.0-windows\Assignment03.csproj.GenerateResource.cache
+D:\2nd SEMESTER\PROGRAMMING 2\Comp123-agupt123-Assign04 - ANOTHEREDIT\Assignment04\Assignment03\obj\Debug\net5.0-windows\Assignment03.GeneratedMSBuildEditorConfig.editorconfig
+D:\2nd SEMESTER\PROGRAMMING 2\Comp123-agupt123-Assign04 - ANOTHEREDIT\Assignment04\Assignment03\obj\Debug\net5.0-windows\Assignment03.AssemblyInfoInputs.cache
+D:\2nd SEMESTER\PROGRAMMING 2\Comp123-agupt123-Assign04 - ANOTHEREDIT\Assignment04\Assignment03\obj\Debug\net5.0-windows\Assignment03.AssemblyInfo.cs
+D:\2nd SEMESTER\PROGRAMMING 2\Comp123-agupt123-Assign04 - ANOTHEREDIT\Assignment04\Assignment03\obj\Debug\net5.0-windows\Assignment03.csproj.CoreCompileInputs.cache
+D:\2nd SEMESTER\PROGRAMMING 2\Comp123-agupt123-Assign04 - ANOTHEREDIT\Assignment04\Assignment03\obj\Debug\net5.0-windows\Assignment03.csproj.CopyComplete
+D:\2nd SEMESTER\PROGRAMMING 2\Comp123-agupt123-Assign04 - ANOTHEREDIT\Assignment04\Assignment03\obj\Debug\net5.0-windows\Assignment03.dll
+D:\2nd SEMESTER\PROGRAMMING 2\Comp123-agupt123-Assign04 - ANOTHEREDIT\Assignment04\Assignment03\obj\Debug\net5.0-windows\ref\Assignment03.dll
+D:\2nd SEMESTER\PROGRAMMING 2\Comp123-agupt123-Assign04 - ANOTHEREDIT\Assignment04\Assignment03\obj\Debug\net5.0-windows\Assignment03.pdb
+D:\2nd SEMESTER\PROGRAMMING 2\Comp123-agupt123-Assign04 - ANOTHEREDIT\Assignment04\Assignment03\obj\Debug\net5.0-windows\Assignment03.genruntimeconfig.cache
